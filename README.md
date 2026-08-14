@@ -21,7 +21,11 @@ Atualmente estou focado em evoluir principalmente em **desenvolvimento web e sof
 Gosto de aprender **fazendo**. Por isso, grande parte do meu aprendizado acontece através de projetos próprios, onde posso experimentar tecnologias, resolver problemas e descobrir novas formas de desenvolver.
 
 ---
-
+## GitStats
+<div>
+<img height="200em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GuiCoder16&layout=compact&langs_count=7&theme=dracula&locale=en">
+<img height="200em" src="https://github-stats-extended.vercel.app/api?username=GuiCoder16&show_icons=true&theme=dracula&locale=en"
+</div>
 ## 🛠️ Tecnologias
 
 ### Linguagens
