@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Guilherme!
+# Bem-vindo ao meu perfil, eu sou o Guilherme!
 
 ### 💻 Desenvolvedor em formação | Ciência da Computação
 
