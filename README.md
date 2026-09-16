@@ -60,16 +60,6 @@ Projeto criado para resolver um problema real, envolvendo **autenticação, banc
 
 ---
 
-### 📊 InsightFlow
-
-Dashboard desenvolvido para transformar indicadores e dados em uma interface visual mais clara e interativa.
-
-Projeto voltado para **visualização de dados, dashboards e análise de indicadores**.
-
-**Stack:** HTML • CSS • JavaScript • Apache ECharts
-
----
-
 ### 🌐 Meu Portfolio
 
 Meu espaço pessoal para apresentar meus projetos, habilidades e minha evolução como desenvolvedor.
