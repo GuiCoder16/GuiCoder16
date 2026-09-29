@@ -26,6 +26,7 @@ Gosto de aprender **fazendo**. Por isso, grande parte do meu aprendizado acontec
 <img height="200em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GuiCoder16&layout=compact&langs_count=7&theme=dracula&locale=en">
 <img height="200em" src="https://github-stats-extended.vercel.app/api?username=GuiCoder16&show_icons=true&theme=dracula&locale=en"
 </div>
+  
 ## 🛠️ Tecnologias
 
 ### Linguagens
